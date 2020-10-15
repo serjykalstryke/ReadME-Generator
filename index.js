@@ -116,6 +116,8 @@ ${data.installation}
 ## Usage
 ${data.usage}
 
+[![How to use ReadMe Generator](https://img.youtube.com/vi/PX3Y4k1lvRo/0.jpg)](https://youtu.be/PX3Y4k1lvRo "Everything Is AWESOME")
+
 ![How to use ReadMe Generator](./assets/readmegenerator.gif)
 
 ## Licence
@@ -126,6 +128,17 @@ ${data.contribution}
 ${data.test}
 ## Repository
 - [Project Repo](${data.repo})
+
+## Sample of application in action
+![Application in action](./assets/0nodeindex.png)
+![Application in action](./assets/1title.png)
+![Application in action](./assets/2description.png)
+![Application in action](./assets/3license.png)
+![Application in action](./assets/4test.png)
+![Application in action](./assets/5email.png)
+![Application in action](./assets/6repo.png)
+![Application in action](./assets/7success.png)
+
 ## Questions? Contact me here:
 ![Image of me](${githubInfo.githubImage})
 - ${githubInfo.name}
