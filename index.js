@@ -111,8 +111,8 @@ ${data.description}
 ## Installation
 ${data.installation}
 
-[![Installation Image](./assets/installation.png
-    
+[![Installation Image](./assets/installation.png)
+
 ## Usage
 ${data.usage}
 
