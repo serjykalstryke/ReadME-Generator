@@ -15,7 +15,7 @@ This is a simple application that generates a readme file based on user inputs. 
 clone the repository via Github and open a terminal. cd into the folder where the application is installed and run using node index command
 ## Usage
 Once node index command is run, the application will ask for inputs via the terminal. Enter appropriate information and the application will output a file called README.md, which is a markdown file that any application capable of reading markdown will format properly. 
-<iframe  title="YouTube video player" width="480" height="390" src="http://www.youtube.com/watch?v=TheVideoID?autoplay=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-mUJnKI3ipI" frameborder="0" allowfullscreen></iframe>
 
 ## Licence
 GNU GPLv3
