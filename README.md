@@ -28,7 +28,7 @@ Once node index command is run, the application will ask for inputs via the term
 ## Licence
 GNU GPLv3
 ## Contributors
-Feel free to fork this application and make any improvements you feel important. 
+Myself, but if you want to contribute, feel free to fork this application and make any improvements you feel important. 
 ## Test
 upon cloning/forking, run the application. If you hit any snags feel free to contact me via the contact information below
 ## Repository
