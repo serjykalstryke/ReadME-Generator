@@ -1,4 +1,5 @@
 # **ReadMe Generator**
+#[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ## Description 
 A simple readme generator build using node.js and several npm packages. users input requested information and the application will generate a markdown file
 ## Table of contents
@@ -15,7 +16,7 @@ via Github
 ## Usage
 by entering 'node index' into a terminal for the appropriate folder where the application has been downloaded
 ## Licence
-GPL
+GNU GPLv3
 ## Contributors
 via Github
 ## Test
