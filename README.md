@@ -10,20 +10,20 @@ A simple readme generator build using node.js and several npm packages. users in
 - [Contributors](#Contributors)
 - [Test](#Test)
 - [Repository Link](#Repository)
-- [GitHub Info](#GitHub) 
+- [Submit Questions to:](#GitHub) 
 ## Installation
-via Github
+clone the repository from Github
 ## Usage
-by entering 'node index' into a terminal for the appropriate folder where the application has been downloaded
+Once repository is cloned, open a terminal and cd into the folder where the package is installed
 ## Licence
 GNU GPLv3
 ## Contributors
-via Github
+You are free to fork this project and make whatever improvements you would like. This is a student project that I probably will never return to
 ## Test
-download via github and email me with any issues
+If you hit any issues while testing, please email me at the email listed in the contact section.
 ## Repository
 - [Project Repo](https://github.com/serjykalstryke/ReadMe-Generator)
-## GitHub
+## Questions? Contact me here:
 ![Image of me](https://avatars2.githubusercontent.com/u/68971513?v=4)
 - David Stinnett
 - [GitHub Profile](https://github.com/serjykalstryke)

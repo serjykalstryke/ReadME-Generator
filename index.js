@@ -90,7 +90,6 @@ readme.then(data => {
             
             const githubInfo = {
                 githubImage: res.data.avatar_url,
-                email: res.data.email,
                 profile: res.data.html_url,
                 name: res.data.name
             };
@@ -108,7 +107,7 @@ ${data.description}
 - [Contributors](#Contributors)
 - [Test](#Test)
 - [Repository Link](#Repository)
-- [GitHub Info](#GitHub) 
+- [Submit Questions to:](#GitHub) 
 ## Installation
 ${data.installation}
 ## Usage
@@ -121,7 +120,7 @@ ${data.contribution}
 ${data.test}
 ## Repository
 - [Project Repo](${data.repo})
-## GitHub
+## Questions? Contact me here:
 ![Image of me](${githubInfo.githubImage})
 - ${githubInfo.name}
 - [GitHub Profile](${githubInfo.profile})
