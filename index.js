@@ -40,7 +40,7 @@ const readme = new Promise((resolve, reject) => {
         {
             type: "input",
             name: "contribution",
-            message: "How can a user contribute to this application?"
+            message: "Who contributed to this application and how can a user contribute to this application?"
         },
         {
             type: "input",
