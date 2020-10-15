@@ -97,7 +97,7 @@ readme.then(data => {
 
         const markdown =
 `# **${data.title}**
-#${data.getLicense}
+${data.getLicense}
 ## Description 
 ${data.description}
 ## Table of contents
