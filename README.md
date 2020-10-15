@@ -16,8 +16,6 @@ clone the repository via Github and open a terminal. cd into the folder where th
 ## Usage
 Once node index command is run, the application will ask for inputs via the terminal. Enter appropriate information and the application will output a file called README.md, which is a markdown file that any application capable of reading markdown will format properly. 
 
-<iframe width='1080' height='760' src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
-
 ## Licence
 GNU GPLv3
 ## Contributors
