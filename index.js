@@ -110,6 +110,9 @@ ${data.description}
 - [Submit Questions to:](#GitHub) 
 ## Installation
 ${data.installation}
+
+[![Installation Image](./assets/installation.png
+    
 ## Usage
 ${data.usage}
 
