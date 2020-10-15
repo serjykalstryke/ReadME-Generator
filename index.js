@@ -50,12 +50,12 @@ const readme = new Promise((resolve, reject) => {
         {
             type: "input",
             name: "username",
-            message: "what is your github username so that users can submit questions?"
+            message: "What is your github username so that users can submit questions?"
         },
         {
             type: "input",
             name: "email",
-            message: "what is your email so that users can submit questions?"
+            message: "What is your email so that users can submit questions?"
         },
         {
             type: "input",
