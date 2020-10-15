@@ -19,7 +19,9 @@ clone the repository via Github and open a terminal. cd into the folder where th
 ![Installation Image](./assets/installation.png)
     
 ## Usage
-Once node index command is run, the application will ask for inputs via the terminal. Enter appropriate information and the application will output a file called README.md, which is a markdown file that any application capable of reading markdown will format properly. Click the below image for a video of the application in action.
+Once node index command is run, the application will ask for inputs via the terminal. Enter appropriate information and the application will output a file called README.md, which is a markdown file that any application capable of reading markdown will format properly. Click the below image for a video of the application in action, there is also a gif that conveys the general idea of using the application.
+
+![How to use ReadMe Generator](https://img.youtube.com/vi/PX3Y4k1lvRo/0.jpg)](https://youtu.be/PX3Y4k1lvRo "Everything Is AWESOME")
 
 ![How to use ReadMe Generator](./assets/readmegenerator.gif)
 
