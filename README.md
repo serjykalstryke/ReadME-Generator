@@ -1,7 +1,7 @@
 # **ReadMe Generator**
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ## Description 
-This is a simple application that generates a readme file based on user inputs. It takes the name of the project, a description, and several other pieces of information and outputs a .md file based upon those inputs. It uses Node.js as well as several packages installed using npm, namely inquirer and axios.
+This is a simple application that generates a readme file based on user inputs. It takes the name of the project, a description, and several other pieces of information and outputs a .md file based upon those inputs. It uses Node.js as well as several packages installed using npm, namely inquirer and axios. To generalize the use of this application, a user would need to add their own images to the assets folder and change the affiliated code and link to their own usage video. 
 ## Table of contents
 - [**ReadMe Generator**](#readme-generator)
   - [Description](#description)
@@ -17,7 +17,7 @@ This is a simple application that generates a readme file based on user inputs. 
 ## Installation
 By cloning the repository from Github
 
-[![Installation Image](./assets/installation.png)
+![Installation Image](./assets/installation.png)
 
 ## Usage
 Open a terminal window. cd into the folder where the application is installed and run using node index command. Once node index command is run, the application will ask for inputs via the terminal. Enter appropriate information and the application will output a file called README.md, which is a markdown file that any application capable of reading markdown will format properly. Click the below image for a video of the application in action, there is also a gif that conveys the general idea of using the application.
