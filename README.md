@@ -1,7 +1,7 @@
 # **ReadMe Generator**
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ## Description 
-A simple readme generator build using node.js and several npm packages. users input requested information and the application will generate a markdown file
+This is a simple application that generates a readme file based on user inputs. It takes the name of the project, a description, and several other pieces of information and outputs a .md file based upon those inputs. It uses Node.js as well as several packages installed using npm, namely inquirer and axios.
 ## Table of contents
 - [Description](#Description)
 - [Installation](#Installation)
@@ -12,15 +12,15 @@ A simple readme generator build using node.js and several npm packages. users in
 - [Repository Link](#Repository)
 - [Submit Questions to:](#GitHub) 
 ## Installation
-clone the repository from Github
+clone the repository via Github and open a terminal. cd into the folder where the application is installed and run using node index command
 ## Usage
-Once repository is cloned, open a terminal and cd into the folder where the package is installed
+Once node index command is run, the application will ask for inputs via the terminal. Enter appropriate information and the application will output a file called README.md, which is a markdown file that any application capable of reading markdown will format properly. 
 ## Licence
 GNU GPLv3
 ## Contributors
-You are free to fork this project and make whatever improvements you would like. This is a student project that I probably will never return to
+Feel free to fork this application and make any improvements you feel important. 
 ## Test
-If you hit any issues while testing, please email me at the email listed in the contact section.
+upon cloning/forking, run the application. If you hit any snags feel free to contact me via the contact information below
 ## Repository
 - [Project Repo](https://github.com/serjykalstryke/ReadMe-Generator)
 ## Questions? Contact me here:
